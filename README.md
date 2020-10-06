@@ -1,1 +1,1 @@
-# pupg-game
+# pupge-game
